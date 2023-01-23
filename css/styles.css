@@ -400,7 +400,7 @@ section.proyect {
     flex-direction: column;
     justify-content:flex-start;
     align-items: center;
-    background: url(/img/space.jpg) no-repeat center;
+    background: url(../img/space.jpg) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
 }
